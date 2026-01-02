@@ -4,8 +4,8 @@
 > **Not:** Bu repo **zararlı davranış içermez**; IOC’ler redakte edilmiştir.
 
 <p align="center">
-  <img src="[your_relative_path_here](https://raw.githubusercontent.com/0x147p/Cloudflare-Clipboard-Hijack-Analizi/refs/heads/main/img.png)" width="350" title="hover text">
-  <img src="[your_relative_path_here_number_2_large_name](https://raw.githubusercontent.com/0x147p/Cloudflare-Clipboard-Hijack-Analizi/refs/heads/main/img.png)" width="350" alt="accessibility text">
+  <img src="https://raw.githubusercontent.com/0x147p/Cloudflare-Clipboard-Hijack-Analizi/refs/heads/main/img.png" width="350">
+  <img src="https://raw.githubusercontent.com/0x147p/Cloudflare-Clipboard-Hijack-Analizi/refs/heads/main/img.png" width="350">
 </p>
 
 ## Özet
