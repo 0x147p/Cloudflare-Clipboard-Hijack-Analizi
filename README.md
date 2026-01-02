@@ -5,7 +5,7 @@
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/0x147p/Cloudflare-Clipboard-Hijack-Analizi/refs/heads/main/img.png" width="350">
-  <img src="https://raw.githubusercontent.com/0x147p/Cloudflare-Clipboard-Hijack-Analizi/refs/heads/main/img.png" width="350">
+  
 </p>
 
 ## Özet
