@@ -34,16 +34,7 @@ Aşağıdaki davranışlar sahte doğrulama sayfalarında sık görülür:
 - Yönlendirme: `t[.]me/<REDACTED>`
 - İndirme kaynağı: `hxxp://<REDACTED-DOMAIN>/<REDACTED-PATH>`
 - Çalıştırılan komut: `<REDACTED-COMMAND>`
-
-## Bu Repoda Ne Var?
-
-- `docs/`  
-  - Farkındalık notları (tweet metni, kısa açıklama, sunum notları)
-- `samples/`  
-  - **Temizlenmiş** (zararlı davranışları kaldırılmış) eğitim amaçlı HTML şablonları
-- `iocs/`  
-  - Redakte IOC listeleri ve paylaşım formatları
-
+ 
 ## Savunma / Önlem Önerileri
 
 ### Kullanıcı Farkındalığı
@@ -60,11 +51,7 @@ Bu repo **savunma ve farkındalık** içindir.
 - Zararlı komut/URL/payload **paylaşmayın**  
 - İçerikleri eğitim amaçlı ve redakte şekilde yayınlayın  
 - Gerçek kurum/marka taklidi yapacak şekilde kullanmayın
-
-## Lisans
-
-MIT License (öneri). Ayrıntı için `LICENSE` dosyası ekleyebilirsiniz.
-
+ 
 ## Sorumlu Kullanım / Disclaimer
 
 Bu içerik yalnızca **güvenlik farkındalığı, analiz ve savunma** amaçlıdır.  
