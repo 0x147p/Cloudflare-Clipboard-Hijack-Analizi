@@ -3,6 +3,11 @@
 > **Amaç:** “Cloudflare / reCAPTCHA doğrulaması” gibi görünen ama kullanıcıyı **Win+R → Ctrl+V → Enter** akışıyla komut çalıştırmaya ikna eden saldırıların teknik analizini ve farkındalık materyallerini paylaşmak.  
 > **Not:** Bu repo **zararlı davranış içermez**; IOC’ler redakte edilmiştir.
 
+<p align="center">
+  <img src="[your_relative_path_here](https://raw.githubusercontent.com/0x147p/Cloudflare-Clipboard-Hijack-Analizi/refs/heads/main/img.png)" width="350" title="hover text">
+  <img src="[your_relative_path_here_number_2_large_name](https://raw.githubusercontent.com/0x147p/Cloudflare-Clipboard-Hijack-Analizi/refs/heads/main/img.png)" width="350" alt="accessibility text">
+</p>
+
 ## Özet
 
 Bu saldırı sınıfı genelde şu şekilde çalışır:
